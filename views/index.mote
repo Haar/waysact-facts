@@ -1,0 +1,10 @@
+<span id="brunomattarollo">
+  <image src="/img/brunomattarollo.jpg">
+</span>
+<div id="fact" data-fact="-1">
+</div>
+<div id="actions">
+  <div id="next">
+    <a href="">Get me another fact!</a>
+  </div>
+</div>

@@ -23,8 +23,8 @@ html {
 }
 
 #fact {
-  font-size: 24pt;
-  font-weight: 800;
+  font-size: 20pt;
+  font-weight: 600;
 }
 
 #actions {
@@ -54,4 +54,23 @@ html {
   background: -o-linear-gradient(#84C83C, #66AA1E) repeat scroll 0 0 #84C83C;
   background: linear-gradient(#84C83C, #66AA1E) repeat scroll 0 0 #84C83C;
   box-shadow: 0 3px rgba(0, 0, 0, 0.1), 0 -4px rgba(0, 0, 0, 0.1) inset;
+}
+
+#next a:hover {
+  cursor: pointer;
+  box-shadow: 0 3px rgba(0, 0, 0, 0.1), 0 -4px rgba(0, 0, 0, 0.1) inset, 0px 3px 48px rgba(255, 255, 255, 0.2) inset;
+}
+
+#next a:active {
+  cursor: pointer;
+  box-shadow: 0 3px rgba(0, 0, 0, 0.1) inset, 0 -4px rgba(0, 0, 0, 0.1), 0px 3px 48px rgba(255, 255, 255, 0.2) inset;
+}
+
+img {
+  border: 5px solid #333;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
 }
