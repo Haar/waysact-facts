@@ -29,7 +29,7 @@
       factIndex = Math.floor(Math.random() * facts.length);
     }
 
-    fact = facts[factIndex].replace("{person}", person);
+    fact = facts[factIndex].replace(/\{person\}/g, person);
     $("div#fact").fadeOut(1000, function(){
       $("div#fact").html(fact).data("fact", factIndex).fadeIn(1000);
     });
