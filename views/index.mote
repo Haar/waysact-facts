@@ -1,6 +1,32 @@
-<span id="brunomattarollo">
-  <image src="/img/brunomattarollo.jpg">
-</span>
+<div id="persons">
+  <span id="brunomattarollo" data-name="Bruno Mattarollo" style="display:block;">
+    <image src="/img/brunomattarollo.jpg">
+  </span>
+  <span id="jamesgoodridge" data-name="James Goodridge" style="display:none;">
+    <image src="/img/jamesgoodridge.jpg">
+  </span>
+  <span id="anthcourtney" data-name="Anth Courtney" style="display:none;">
+    <image src="/img/anthcourtney.jpg">
+  </span>
+  <span id="daniellehickie" data-name="Danielle Hickie" style="display:none;">
+    <image src="/img/daniellehickie.jpg">
+  </span>
+  <span id="jonjames" data-name="Jon James" style="display:none;">
+    <image src="/img/jonjames.jpg">
+  </span>
+  <span id="jorgekalmbach" data-name="Jorge Kalmbach" style="display:none;">
+    <image src="/img/jorgekalmbach.jpg">
+  </span>
+  <span id="lisabritt" data-name="Lisa Britt" style="display:none;">
+    <image src="/img/lisabritt.jpg">
+  </span>
+  <span id="robertwhite" data-name="Robert White" style="display:none;">
+    <image src="/img/robertwhite.jpg">
+  </span>
+  <span id="vikkifurse" data-name="Vikki Furse" style="display:none;">
+    <image src="/img/vikkifurse.jpg">
+  </span>
+</div>
 <div id="fact" data-fact="-1">
 </div>
 <div id="actions">
