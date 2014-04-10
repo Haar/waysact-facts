@@ -23,8 +23,12 @@ html {
 }
 
 #fact {
-  font-size: 20pt;
-  font-weight: 600;
+  color: #666;
+  font-size: 18pt;
+  font-weight: 500;
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #actions {
