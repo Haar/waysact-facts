@@ -1,5 +1,6 @@
 <div id="persons">
-  <span id="brunomattarollo" data-name="Bruno Mattarollo" style="display:block;">
+  <span style="display:block;"></span>
+  <span id="brunomattarollo" data-name="Bruno Mattarollo" style="display:none;">
     <image src="/img/brunomattarollo.jpg">
   </span>
   <span id="jamesgoodridge" data-name="James Goodridge" style="display:none;">
@@ -30,7 +31,7 @@
 <div id="fact" data-fact="-1">
 </div>
 <div id="actions">
-  <div id="next">
+  <div id="next" class="enabled">
     <a href="">Get me another fact!</a>
   </div>
 </div>
